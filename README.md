@@ -1,7 +1,7 @@
 ![money-banner](https://user-images.githubusercontent.com/91988772/233615895-655a1667-0988-4780-b6fe-d5b46e5bd8e9.png)
 
 # economy-system
-The repository contains the source code for a Discord bot that implements an economy system, allowing server owners to create a virtual currency for their community. The bot keeps track of each user's balance and allows them to earn and spend the currency through a variety of commands.
+The repository contains the source code for a system that implements an economy system, allowing server owners to create a virtual currency for their community. The bot keeps track of each user's balance and allows them to earn and spend the currency through a variety of commands.
 
 The project offers several customization options, such as adjusting the rate at which users can earn currency and setting up custom items for purchase with the virtual currency.
 
