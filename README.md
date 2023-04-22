@@ -1,6 +1,6 @@
 ![money-banner](https://user-images.githubusercontent.com/91988772/233615895-655a1667-0988-4780-b6fe-d5b46e5bd8e9.png)
-# Want a bot of your own? Well now you can get one at https://shop.lunartaku.codes use code `hlNy6tl7` for 20% off your first order!
-
+# AD
+[![20OFF](https://user-images.githubusercontent.com/91988772/233785375-685dd1fa-718c-405c-af60-9f912424a700.png)](https://shop.lunartaku.codes)
 # economy-system
 The repository contains the source code for a system that implements an economy system, allowing server owners to create a virtual currency for their community. The bot keeps track of each user's balance and allows them to earn and spend the currency through a variety of commands.
 
